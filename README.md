@@ -23,7 +23,7 @@ Microsoft Edge version 93.0.961.52 (64-bit) on Windows 10 version 10.0.19043 (Bu
 
 | Software            | FPS     | Resoution | Particles | Max Line Distance |
 |---------------------|---------|-----------|-----------|-------------------|
-| performantParticles | 75-95   | 1920x1080 | 1000      | 150px             |
+| perParticles | 75-95   | 1920x1080 | 1000      | 150px             |
 | [Particles.js](https://github.com/VincentGarreau/particles.js/) | 23-25 | 1920x1080 | 1000 | 150px |
 | [tsParticles](https://github.com/matteobruni/tsparticles) | 13-15 | 1920x1080 | 1000 | 150px |
 
@@ -31,10 +31,10 @@ Microsoft Edge version 93.0.961.52 (64-bit) on Windows 10 version 10.0.19043 (Bu
 
 | Software            | FPS     | Resoution | Particles | Max Line Distance |
 |---------------------|---------|-----------|-----------|-------------------|
-| performantParticles | 175-195 | 5210x1440 | 1000      | 150px             |
+| perParticles | 175-195 | 5210x1440 | 1000      | 150px             |
 | [Particles.js](https://github.com/VincentGarreau/particles.js/) | 63-66 | 5210x1440 | 1000 | 150px |
 | [tsParticles](https://github.com/matteobruni/tsparticles) | 29-32 | 5210x1440 | 1000 | 150px |
 
 ### Takeaway
 
-The FPS results were consistent across multiple measurements on the same computer. Naturally these results are specific to the hardware and software used. Testing on your own device may yield different results. Lower results would be expected on CPUs with fewer than 8 cores, unfortunately I didn't have any on hand to test with.
+The FPS results were consistent across multiple measurements on the same computer. Naturally these results are specific to the hardware and software used. Testing on your own device may yield different results. Somewhat lower performance would be expected on CPUs with 8 or fewer cores, unfortunately I didn't have any on hand to test with. For what it's worth, according to people who ran some impromptu tests for me on their phones and computers, perParticles still visibly outperforms other solutions.
