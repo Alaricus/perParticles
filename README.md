@@ -12,7 +12,7 @@ The tests were performed on a system with an AMD Ryzen 7 5800X CPU and 32Gb of D
 
 ### Software
 
-Microsoft Edge version 93.0.961.52 (64-bit) on Windows 10 version 10.0.19043 (Build 19043) was used to
+Microsoft Edge version 93.0.961.52 (64-bit) on Windows 10 version 10.0.19043 (Build 19043).
 
 [Stats.js](https://github.com/mrdoob/stats.js) was used to measure FPS.
 
