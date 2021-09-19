@@ -2,6 +2,8 @@
 
 **Performant Particles** is a demo that was written to handle a comparatively large amount of particles without slowing down to the same degree as existing solutions. Since it was intended as a proof of concept rather than a ready to use solution, it cannot be imported as a package, but it should still be easy to use. All of the customization options are listed at the top of perParticles.js file and are self-explanatory.
 
+You can view the live demo [here](https://alaricus.github.io/perParticles/). It is set to the same particle amount and maximum line distance as the tests described below.
+
 ## Test Setup
 
 ### Hardware
