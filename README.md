@@ -31,9 +31,9 @@ Microsoft Edge version 93.0.961.52 (64-bit) on Windows 10 version 10.0.19043 (Bu
 
 | Software            | FPS     | Resoution | Particles | Max Line Distance |
 |---------------------|---------|-----------|-----------|-------------------|
-| perParticles | 175-195 | 5210x1440 | 1000      | 150px             |
-| [Particles.js](https://github.com/VincentGarreau/particles.js/) | 63-66 | 5210x1440 | 1000 | 150px |
-| [tsParticles](https://github.com/matteobruni/tsparticles) | 29-32 | 5210x1440 | 1000 | 150px |
+| perParticles | 175-195 | 5120x1440 | 1000      | 150px             |
+| [Particles.js](https://github.com/VincentGarreau/particles.js/) | 63-66 | 5120x1440 | 1000 | 150px |
+| [tsParticles](https://github.com/matteobruni/tsparticles) | 29-32 | 5120x1440 | 1000 | 150px |
 
 ### Takeaway
 
